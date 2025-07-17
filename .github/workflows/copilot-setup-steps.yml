@@ -25,6 +25,3 @@ jobs:
 
       - name: Install MCP server
         run: dotnet tool install -g ExampleMcpServer --prerelease
-
-      - name: Build
-        run: dotnet build
