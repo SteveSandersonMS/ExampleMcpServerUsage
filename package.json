@@ -1,0 +1,13 @@
+{
+  "name": "hello-mcp-example",
+  "version": "1.0.0",
+  "description": "Simple example of MCP server usage with hello functionality",
+  "main": "hello_example.js",
+  "scripts": {
+    "hello": "node hello_example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mcp", "hello", "example"],
+  "author": "",
+  "license": "MIT"
+}
